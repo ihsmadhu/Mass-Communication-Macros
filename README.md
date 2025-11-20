@@ -1,6 +1,21 @@
 # Mass-Communication-Macros
 A VBA-based automation system that sends mass communication emails through Outlook using batches, and scans for undeliverable/bounce messages to update Excel statuses automatically.
 
+## 🔍 Demo Preview
+
+### **📩 Sending Bulk Emails**
+
+<p align="center">
+  <img src="3. Screenshots/demo-send-bulk-email.gif" width="75%" alt="Demo - Sending Bulk Emails"/>
+</p>
+
+### **📬 Status Update from Bounce Detection**
+
+<p align="center">
+  <img src="3. Screenshots/demo-status-bounce-check.gif" width="75%" alt="Demo - Bounce Status Update"/>
+</p>
+
+---
 # Mass Communication Email Automation (Excel + Outlook VBA)
 
 Automates large-scale email communication using Excel and Outlook, including batching recipients, drafting bulk messages using `.msg` templates, and automatically detecting undelivered (bounce) emails to update status back in Excel.
